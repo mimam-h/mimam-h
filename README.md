@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m Informatics Engineering student at Brawijaya University
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on ...
