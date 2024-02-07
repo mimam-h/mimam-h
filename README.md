@@ -1,13 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m Informatics Engineering student at Brawijaya University
-- 🌱 I’m currently learning Javascript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m an Informatics Engineering student at Brawijaya University
+- 🌱 I’m currently learning Javascript, Go, and Docker
+- 📫 How to reach me: [Instagram](https://www.instagram.com/imam.mh_/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: A cloud weighs around a million tonnes
 
 <p align="left">
 <a href="https://github.com/mimam-h">
