@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m an Informatics Engineering student at Brawijaya University
-- 🌱 I’m currently learning Javascript, Go, and Docker
+- 🌱 I’m currently learning React, Go, and Docker
 - 📫 How to reach me: [Instagram](https://www.instagram.com/imam.mh_/), [Email](mailto:m.imamhidayat24@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: A cloud weighs around a million tonnes
